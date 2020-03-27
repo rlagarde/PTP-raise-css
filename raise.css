@@ -1474,6 +1474,7 @@ a[onclick^=ToggleTagSelector]:hover {
 .search-bar__search-field__input {
     background-color: rgba(0,0,0,0.7)!important;
     border-color: rgba(255,255,255,0.4)!important;
+    padding: 0 1px 0 3px!important;
 }
 
 .search-bar__search-field__input:hover {
